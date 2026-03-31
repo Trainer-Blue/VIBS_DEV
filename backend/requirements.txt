@@ -1,0 +1,11 @@
+flask
+flask-cors
+requests
+pymupdf
+langchain
+langchain-core
+langchain-community
+langchain-groq
+faiss-cpu
+python-dotenv
+sentence-transformers
